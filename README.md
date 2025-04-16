@@ -38,7 +38,6 @@ The simulator reads input from a file named `input.txt`.
 
 ## 📎 Files
 
-File	Description
 - scheduler.py	Main Python script with simulation logic
 - input.txt	Input file with 5+ periodic process definitions
 - output.txt	Captured simulation results
