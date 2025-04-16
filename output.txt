@@ -1,0 +1,28 @@
+
+RM Results:
+Schedule feasible from 0 to 1516 units.
+CPU time took 871 units.
+Process 1: Arrival Time: 0, Service: 87, Period: 650, finish: 87, 737, 1387
+Process 2: Arrival Time: 0, Service: 16, Period: 750, finish: 87, 766, 1516
+Process 3: Arrival Time: 0, Service: 21, Period: 850, finish: 87, 871
+Process 4: Arrival Time: 0, Service: 27, Period: 950, finish: 108, 977
+Process 5: Arrival Time: 0, Service: 59, Period: 1050, finish: 189, 1109
+
+DM Results:
+Schedule feasible from 0 to 1561 units.
+At 1561, process 5 did not meet deadline.
+CPU time took 3210 units.
+Process 1: Arrival Time: 0, Service: 95, Period: 650, finish: 95, 673, 1307
+Process 2: Arrival Time: 0, Service: 208, Period: 750, finish: 95, 866, 1561
+Process 3: Arrival Time: 0, Service: 362, Period: 850, finish: 95, 958
+Process 4: Arrival Time: 0, Service: 249, Period: 950, finish: 457, 1395
+Process 5: Arrival Time: 0, Service: 121, Period: 1050, finish: Not finished (missed deadline)
+
+EDF Results:
+Schedule feasible from 0 to 1558 units.
+CPU time took 5722 units.
+Process 1: Arrival Time: 0, Service: 380, Period: 650, finish: 380, 1006, 1558
+Process 2: Arrival Time: 0, Service: 240, Period: 750, finish: 380, 1077
+Process 3: Arrival Time: 0, Service: 452, Period: 850, finish: 380, 1290
+Process 4: Arrival Time: 0, Service: 356, Period: 950, finish: 832, 1357
+Process 5: Arrival Time: 0, Service: 127, Period: 1050, finish: 976
